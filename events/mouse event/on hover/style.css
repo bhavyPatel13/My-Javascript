@@ -1,0 +1,31 @@
+.a1{
+    height: 500px;
+    width: 500px;
+    background-color: blue;
+}
+.a2{
+    height: 400px;
+    width: 400px;
+    background-color: pink;
+}
+.a3{
+    height: 300px;
+    width: 300px;
+    background-color: red;
+}
+.a4{
+    height: 200px;
+    width: 200px;
+    background-color: yellowgreen;
+}
+.b1{
+    height: 240px;
+    width: 429px;
+    background-image: url(image/1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: local;
+}   
+h3{
+    width: 85px;
+}
